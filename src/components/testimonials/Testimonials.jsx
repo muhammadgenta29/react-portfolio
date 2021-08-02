@@ -28,7 +28,7 @@ export default function Testimonials() {
           img:
             'assets/user3.jpg',
           desc:
-            'Warren is awesome, delivers exactly what you want and is a great guy as well, thanks for all your hard work on my website',
+            'Genta is awesome, delivers exactly what you want and is a great guy as well, thanks for all your hard work on my website',
         },
       ]
 
